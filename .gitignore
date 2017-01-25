@@ -1,0 +1,7 @@
+bin/
+docs/
+lib/
+*.docx
+.classpath
+.project
+.settings/

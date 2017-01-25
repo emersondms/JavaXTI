@@ -1,0 +1,5 @@
+Emerson;12000.0
+Chico Tripa;10000.0
+Malandrao;8000.0
+Malandrona;15000.0
+Kaue;49800.0
